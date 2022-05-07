@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://pbshare.ml/post/qixiaoshuo.html</loc>
+    
+    <lastmod>2022-05-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://pbshare.ml/post/gsxuniji.html</loc>
     
     <lastmod>2022-05-07</lastmod>
@@ -176,6 +185,13 @@
   
   <url>
     <loc>https://pbshare.ml/tags/%E9%B9%BF%E4%B9%83/</loc>
+    <lastmod>2022-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://pbshare.ml/tags/%E8%BD%BB%E5%B0%8F%E8%AF%B4/</loc>
     <lastmod>2022-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
